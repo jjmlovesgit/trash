@@ -1,5 +1,3 @@
-Of course. It was a long and complex journey, and a clear summary is the perfect way to document the final, successful method.
-
 This is not a standard installation, but rather a "surgical" procedure we developed to overcome the flawed dependencies in the official packages. The core strategy is to use conda to build a stable GPU foundation and then manually layer the application and its dependencies in a specific order.
 
 Here is the complete, proven summary for installing the davidbrowne17/chatterbox-streaming fork with GPU support.
